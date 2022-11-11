@@ -1,0 +1,11 @@
+[
+    {
+        "title":"Remera","price":4000,"thumbnail":"google.com","id":1
+    },
+    {
+        "title":"Zapatillas","price":23000,"thumbnail":"google.com","id":2
+    },
+    {
+        "title":"Pantalon","price":6400,"thumbnail":"google.com","id":3
+    }
+]
